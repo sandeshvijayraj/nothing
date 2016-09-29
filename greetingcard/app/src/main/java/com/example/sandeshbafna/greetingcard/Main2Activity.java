@@ -23,7 +23,5 @@ public class Main2Activity extends AppCompatActivity {
 
             wish.setText("hey, "+bboy+" wish you");
             from.setText("from "+myname+"  ");
-
-
     }
 }
